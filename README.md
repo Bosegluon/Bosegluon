@@ -1,6 +1,6 @@
 
 
-Here is Dr_1368 who likes python
+Here is Bosegluon who likes python
 
 and also like making EDM
 
@@ -9,7 +9,7 @@ and also like making EDM
 - Programming📄
 
 
-Which Programming language does Dr_1368 use
+Which Programming language does Bosegluon use
 ---------------------------------------------
 
 - Assembly language (proficiency level 5/100)
