@@ -1,22 +1,12 @@
-What and who is Bosegluon
-=========================
 
-What and who is Bosegluon
--------------------------
 
-### What and who is Bosegluon
+Here is Dr_1368 who likes python
 
-#### What and who is Bosegluon
-
-Here is Bosegluon who likes python，and also a furry fun
-
-and lso like making EDM
+and also like making EDM
 
 ### Hobby
 
-- Playing minecraft🕹
 - Programming📄
-- Furry🐾
 
 
 Which Programming language does Bosegluon use
@@ -24,13 +14,15 @@ Which Programming language does Bosegluon use
 
 - Assembly language (proficiency level 5/100)
 - HTML and JS (proficiency level 10/100)
-- Python (proficiency level 20/100)
+- Python (proficiency level 25/100)
 - C# (Proficiency 8/100)
 
 What compiler to use
 --------------------
 
 Pycharm
+Visual Studio
+VS code
 
 Old Eight Secret Burger
 -----------------------
